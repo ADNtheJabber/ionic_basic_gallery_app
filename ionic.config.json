@@ -1,0 +1,7 @@
+{
+  "name": "dna-picture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
